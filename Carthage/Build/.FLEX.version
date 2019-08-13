@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2.4.0",
+  "iOS" : [
+    {
+      "name" : "FLEX",
+      "hash" : "f31f2335e3bd0d284f8e8943261b8f96a28c1f4b3319896ced54e82242f098ef"
+    }
+  ]
+}
